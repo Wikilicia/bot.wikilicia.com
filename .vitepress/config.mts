@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // Add this so asset URLs resolve under your GitHub Pages project path:
-  base: '/bot.wikilicia.com/',
+  base: '/',
 
   srcDir: 'src',
 
