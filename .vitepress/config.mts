@@ -31,7 +31,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "discord", link: "https://discord.gg/9vaNGRbWzT" },
-      { icon: "x", link: "https://www.instagram.com/wikilicia" },
+      { icon: "instagram", link: "https://www.instagram.com/wikilicia" },
       // { icon: "github", link: "https://github.com/" }
     ],
 
